@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <enums>Enum.ТипНоменклатуры</enums>
 </mdclass:Configuration>
